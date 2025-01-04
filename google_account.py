@@ -1,5 +1,5 @@
 def account_mail():
-    return "volleyfolloww@gmail.com"
+    return "@gmail.com"
 
 def account_password():
-    return "Elif5683"
+    return ""
